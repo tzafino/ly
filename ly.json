@@ -1,0 +1,24 @@
+{"success":true,"message":"","radios":
+[
+
+{"number":"1","name":"لبدة اف ام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/lebda.png","streamUrl":"http://audio1.meway.tv:8082/;","yourmuzeId":"0","state":"1"},
+{"number":"2","name":"إذاعة منهاج السنة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/munhaj.png","streamUrl":"http://radio.ddns.me:8070/stream?1580576670288","yourmuzeId":"0","state":"1"},
+{"number":"3","name":"ليبيانا هيتس إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/libyanahits.png","streamUrl":"http://proxima.shoutca.st:8946/stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"4","name":"إذاعة الكتاب والسنة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/kwsfm.jpg","streamUrl":"http://162.244.80.118:5678/stream","yourmuzeId":"0","state":"1"},
+{"number":"5","name":"ايكو اف ام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/echo-FM-orange.png","streamUrl":"http://echo-ly.net:8000/stream","yourmuzeId":"0","state":"1"},
+{"number":"6","name":"راديو التراث إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/AlTurathFM.jpg","streamUrl":"http://109.169.23.22:21028/1","yourmuzeId":"0","state":"1"},
+{"number":"7","name":"راديو السوق إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/alsooq.jpg","streamUrl":"http://edge.mixlr.com/channel/gzhqs","yourmuzeId":"0","state":"1"},
+{"number":"8","name":"إذاعة طريق السلف","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/salafwayfm.png","streamUrl":"http://www.salafwayfm.ly:8000/fm","yourmuzeId":"0","state":"1"},
+{"number":"9","name":"ناس إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/NassFm.png","streamUrl":"https://streamer.radio.co/s149a8867a/listen","yourmuzeId":"0","state":"1"},
+{"number":"10","name":"الآن اف ام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/alaanfm.png","streamUrl":"https://streamingcdn.alaan.tv/fm/fm/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"11","name":"راديو الشبابية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/alshbabya.jpg","streamUrl":"http://109.169.15.20:24679/1","yourmuzeId":"0","state":"1"},
+{"number":"12","name":"راديو بي بي سي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
+{"number":"13","name":"راديو مونتيكارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"14","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"}
+
+
+],
+"country":{"id":"60","name":"oman","logo":"..\/..\/_upload\/_flags\/oman.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
+
+
+
