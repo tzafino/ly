@@ -12,13 +12,14 @@
 {"number":"9","name":"ناس إف إم","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/NassFm.png","streamUrl":"https://streamer.radio.co/s149a8867a/listen","yourmuzeId":"0","state":"1"},
 {"number":"10","name":"الآن اف ام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/alaanfm.png","streamUrl":"https://streamingcdn.alaan.tv/fm/fm/playlist.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"11","name":"راديو الشبابية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/alshbabya.jpg","streamUrl":"http://109.169.15.20:24679/1","yourmuzeId":"0","state":"1"},
-{"number":"12","name":"راديو بي بي سي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
-{"number":"13","name":"راديو مونتيكارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
-{"number":"14","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"}
+{"number":"12","name":"إذاعة التناصح","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/tanasuh.png","streamUrl":"http://tanasuh.tv:8080/hls/fm.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"13","name":"راديو بي بي سي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
+{"number":"14","name":"راديو مونتيكارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"15","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"}
 
 
 ],
-"country":{"id":"60","name":"oman","logo":"..\/..\/_upload\/_flags\/oman.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
+"country":{"id":"60","name":"libya","logo":"..\/..\/_upload\/_flags\/libya.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
 
 
 
