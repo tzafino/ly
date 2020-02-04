@@ -13,9 +13,11 @@
 {"number":"10","name":"الآن اف ام","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/alaanfm.png","streamUrl":"https://streamingcdn.alaan.tv/fm/fm/playlist.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"11","name":"راديو الشبابية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/alshbabya.jpg","streamUrl":"http://109.169.15.20:24679/1","yourmuzeId":"0","state":"1"},
 {"number":"12","name":"إذاعة التناصح","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/tanasuh.png","streamUrl":"http://tanasuh.tv:8080/hls/fm.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"13","name":"راديو بي بي سي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
-{"number":"14","name":"راديو مونتيكارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
-{"number":"15","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"}
+{"number":"13","name":"رادیو الوسط","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/wasat.png","streamUrl":"http://radio.alwasat.ly:5880/Live","yourmuzeId":"0","state":"1"},
+{"number":"14","name":"قناة ليبيا الوطنية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/libyawataniya.jpg","streamUrl":"http://ltv.server.ly:9302/stream","yourmuzeId":"0","state":"1"},
+{"number":"15","name":"راديو بي بي سي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
+{"number":"16","name":"راديو مونتيكارلو","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"17","name":"راديو ساوا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ly/master/sawa.png","streamUrl":"https://mbn-channel-02.akacast.akamaistream.net/7/32/233451/v1/ibb.akacast.akamaistream.net/mbn_channel_02","yourmuzeId":"0","state":"1"}
 
 
 ],
