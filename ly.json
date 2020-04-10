@@ -58,7 +58,11 @@
 {"number":"85","name":"إذاعة الشيخ خالد الجليل","description":"","logo":"/cheikh al jalil.jpg","streamUrl":"http://server2.quraan.us:9794/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"86","name":"إذاعة الشيخ عبد الرحمن العوسي","description":"","logo":"/cheikh al 3osi.jpg","streamUrl":"http://quraan.us:9778/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"87","name":"إذاعة الشيخ القحطاني","description":"","logo":"/cheikh el 97tani.jpg","streamUrl":"http://quraan.us:9900/;*.mp3","yourmuzeId":"0","state":"1"}, 
-{"number":"88","name":"إذاعة الشيخ سعد الغامدي","description":"","logo":"/cheikh el Gamdi.jpg","streamUrl":"http://server2.quraan.us:9854/;*.mp3","yourmuzeId":"0","state":"1"}  
+{"number":"88","name":"إذاعة الشيخ سعد الغامدي","description":"","logo":"/cheikh el Gamdi.jpg","streamUrl":"http://server2.quraan.us:9854/;*.mp3","yourmuzeId":"0","state":"1"},
+  
+  
+  
+{"number":"89","name":"شباب ليبيا","description":"","logo":"/yyy.jpg","streamUrl":"http://n03.radiojar.com/yx0q47hna3quv?rj-ttl=5&rj-tok=AAABcWYouGcAr10LFUlwdV8eLQ","yourmuzeId":"0","state":"1"} 
    
   
   
