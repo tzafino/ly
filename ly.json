@@ -12,8 +12,8 @@
 {"number":"9","name":"ناس إف إم","description":"","logo":"/NassFm.png","streamUrl":"https://streamer.radio.co/s149a8867a/listen","yourmuzeId":"0","state":"2"},
 {"number":"10","name":"الآن اف ام","description":"","logo":"/alaanfm.png","streamUrl":"https://streamingcdn.alaan.tv/fm/fm/playlist.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"11","name":"راديو الشبابية","description":"","logo":"/alshbabya.jpg","streamUrl":"http://109.169.15.20:24679/1","yourmuzeId":"0","state":"1"},
-{"number":"12","name":"إذاعة التناصح","description":"","logo":"/tanasuh.png","streamUrl":"http://tanasuh.tv:8080/hls/fm.m3u8","yourmuzeId":"0","state":"2"},
-{"number":"13","name":"رادیو الوسط","description":"","logo":"/wasat.png","streamUrl":"http://radio.alwasat.ly:5880/Live","yourmuzeId":"0","state":"1"},
+{"number":"12","name":"إذاعة التناصح","description":"","logo":"/tanasuh.png","streamUrl":"http://m.live.net.sa:1935/m/tanasuhtv/chunklist_w556252442.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"13","name":"رادیو الوسط","description":"","logo":"/wasat.png","streamUrl":"https://s3.radio.co/scb106c3a5/listen","yourmuzeId":"0","state":"1"},
 {"number":"14","name":"قناة ليبيا الوطنية","description":"","logo":"/libyawataniya.jpg","streamUrl":"http://ltv.server.ly:9302/stream","yourmuzeId":"0","state":"1"},
 {"number":"17","name":"راديو ساوا","description":"","logo":"/sawa.png","streamUrl":"https://mbn-channel-02.akacast.akamaistream.net/7/32/233451/v1/ibb.akacast.akamaistream.net/mbn_channel_02","yourmuzeId":"0","state":"1"},
 
